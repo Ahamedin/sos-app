@@ -47,7 +47,7 @@ public class SosCall extends AppCompatActivity {
         but2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                performPhoneCall("tel:104");
+                performPhoneCall("tel:101");
             }
         });
         but3.setOnClickListener(new View.OnClickListener() {
@@ -59,7 +59,7 @@ public class SosCall extends AppCompatActivity {
         but4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                performPhoneCall("tel:104");
+                performPhoneCall("tel:1070");
             }
         });
         but5.setOnClickListener(new View.OnClickListener() {
